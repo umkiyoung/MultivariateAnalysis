@@ -105,21 +105,6 @@ Feature Name: floors
 # of unique data: 6 
 unique datas: [1.5 2.  1.  2.5 3.  3.5] 
 
-Feature Name: waterfront 
-# of data: 4600 
-# of unique data: 2 
-unique datas: [0 1] 
-
-Feature Name: view 
-# of data: 4600 
-# of unique data: 5 
-unique datas: [0 4 1 2 3] 
-
-Feature Name: condition 
-# of data: 4600 
-# of unique data: 5 
-unique datas: [3 5 4 2 1] 
-
 Feature Name: sqft_above 
 # of data: 4600 
 # of unique data: 511 
@@ -207,6 +192,21 @@ Feature Name: street
 # of unique data: 4525 
 unique datas: ['18810 Densmore Ave N' '709 W Blaine St' '26206-26214 143rd Ave SE' ...
  '759 Ilwaco Pl NE' '5148 S Creston St' '18717 SE 258th St'] 
+
+Feature Name: waterfront 
+# of data: 4600 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: view 
+# of data: 4600 
+# of unique data: 5 
+unique datas: [0 4 1 2 3] 
+
+Feature Name: condition 
+# of data: 4600 
+# of unique data: 5 
+unique datas: [3 5 4 2 1] 
 
 Feature Name: city 
 # of data: 4600 

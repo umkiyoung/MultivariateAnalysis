@@ -1,0 +1,88 @@
+Feature Name: age 
+# of data: 303 
+# of unique data: 41 
+unique datas: [63 37 41 56 57 44 52 54 48 49 64 58 50 66 43 69 59 42 61 40 71 51 65 53
+ 46 45 39 47 62 34 35 29 55 60 67 68 74 76 70 38 77] 
+
+Feature Name: sex 
+# of data: 303 
+# of unique data: 2 
+unique datas: [1 0] 
+
+Feature Name: cp 
+# of data: 303 
+# of unique data: 4 
+unique datas: [3 2 1 0] 
+
+Feature Name: trestbps 
+# of data: 303 
+# of unique data: 49 
+unique datas: [145 130 120 140 172 150 110 135 160 105 125 142 155 104 138 128 108 134
+ 122 115 118 100 124  94 112 102 152 101 132 148 178 129 180 136 126 106
+ 156 170 146 117 200 165 174 192 144 123 154 114 164] 
+
+Feature Name: chol 
+# of data: 303 
+# of unique data: 152 
+unique datas: [233 250 204 236 354 192 294 263 199 168 239 275 266 211 283 219 340 226
+ 247 234 243 302 212 175 417 197 198 177 273 213 304 232 269 360 308 245
+ 208 264 321 325 235 257 216 256 231 141 252 201 222 260 182 303 265 309
+ 186 203 183 220 209 258 227 261 221 205 240 318 298 564 277 214 248 255
+ 207 223 288 160 394 315 246 244 270 195 196 254 126 313 262 215 193 271
+ 268 267 210 295 306 178 242 180 228 149 278 253 342 157 286 229 284 224
+ 206 167 230 335 276 353 225 330 290 172 305 188 282 185 326 274 164 307
+ 249 341 407 217 174 281 289 322 299 300 293 184 409 259 200 327 237 218
+ 319 166 311 169 187 176 241 131] 
+
+Feature Name: fbs 
+# of data: 303 
+# of unique data: 2 
+unique datas: [1 0] 
+
+Feature Name: restecg 
+# of data: 303 
+# of unique data: 3 
+unique datas: [0 1 2] 
+
+Feature Name: thalach 
+# of data: 303 
+# of unique data: 91 
+unique datas: [150 187 172 178 163 148 153 173 162 174 160 139 171 144 158 114 151 161
+ 179 137 157 123 152 168 140 188 125 170 165 142 180 143 182 156 115 149
+ 146 175 186 185 159 130 190 132 147 154 202 166 164 184 122 169 138 111
+ 145 194 131 133 155 167 192 121  96 126 105 181 116 108 129 120 112 128
+ 109 113  99 177 141 136  97 127 103 124  88 195 106  95 117  71 118 134
+  90] 
+
+Feature Name: exang 
+# of data: 303 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: oldpeak 
+# of data: 303 
+# of unique data: 40 
+unique datas: [2.3 3.5 1.4 0.8 0.6 0.4 1.3 0.  0.5 1.6 1.2 0.2 1.8 1.  2.6 1.5 3.  2.4
+ 0.1 1.9 4.2 1.1 2.  0.7 0.3 0.9 3.6 3.1 3.2 2.5 2.2 2.8 3.4 6.2 4.  5.6
+ 2.9 2.1 3.8 4.4] 
+
+Feature Name: slope 
+# of data: 303 
+# of unique data: 3 
+unique datas: [0 2 1] 
+
+Feature Name: ca 
+# of data: 303 
+# of unique data: 5 
+unique datas: [0 2 1 3 4] 
+
+Feature Name: thal 
+# of data: 303 
+# of unique data: 4 
+unique datas: [1 2 3 0] 
+
+Feature Name: target 
+# of data: 303 
+# of unique data: 2 
+unique datas: [1 0] 
+

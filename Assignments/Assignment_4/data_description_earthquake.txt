@@ -1,0 +1,208 @@
+Feature Name: building_id 
+# of data: 260601 
+# of unique data: 260601 
+unique datas: [802906  28830  94947 ... 602512 151409 747594] 
+
+Feature Name: geo_level_1_id 
+# of data: 260601 
+# of unique data: 31 
+unique datas: [ 6  8 21 22 11  9 20  0 26 17 12 18  4 27 25 10  7  3 13 30 16  5 15 14
+ 19  1 24 28 23  2 29] 
+
+Feature Name: geo_level_2_id 
+# of data: 260601 
+# of unique data: 1414 
+unique datas: [487 900 363 ...  77 115 627] 
+
+Feature Name: geo_level_3_id 
+# of data: 260601 
+# of unique data: 11595 
+unique datas: [12198  2812  8973 ...  3152  5276  3085] 
+
+Feature Name: count_floors_pre_eq 
+# of data: 260601 
+# of unique data: 9 
+unique datas: [2 3 1 4 5 6 7 8 9] 
+
+Feature Name: age 
+# of data: 260601 
+# of unique data: 42 
+unique datas: [ 30  10  25   0  15  20  45  55   5  40  80  60  35  70  50  65 100  75
+  85 190 995 105  90 120  95 110 115 150 200 130 125 140 155 160 175 135
+ 145 195 180 165 170 185] 
+
+Feature Name: area_percentage 
+# of data: 260601 
+# of unique data: 84 
+unique datas: [  6   8   5   9   3  13   7   4  12  16  11  27  10  15  14  17  21  37
+  19   2  28  38  56   1  20  24  34  26  18  31  25  23  22  32  47  36
+  40  29  42  55  35  39 100  50  51  43  30  62  85  33  45  52  57  49
+  67  66  54  75  65  58  48  64  63  46  59  86  78  41  44  61  70  77
+  73  72  53  60  84  83  76  96  80  90  82  69] 
+
+Feature Name: height_percentage 
+# of data: 260601 
+# of unique data: 27 
+unique datas: [ 5  7  9  4  6  3 10  8  2 32 12 11 13 16 15 18 26 17 19 14 20 23 21 25
+ 24 28 31] 
+
+Feature Name: land_surface_condition 
+# of data: 260601 
+# of unique data: 3 
+unique datas: ['t' 'o' 'n'] 
+
+Feature Name: foundation_type 
+# of data: 260601 
+# of unique data: 5 
+unique datas: ['r' 'w' 'i' 'u' 'h'] 
+
+Feature Name: roof_type 
+# of data: 260601 
+# of unique data: 3 
+unique datas: ['n' 'q' 'x'] 
+
+Feature Name: ground_floor_type 
+# of data: 260601 
+# of unique data: 5 
+unique datas: ['f' 'x' 'v' 'z' 'm'] 
+
+Feature Name: other_floor_type 
+# of data: 260601 
+# of unique data: 4 
+unique datas: ['q' 'x' 'j' 's'] 
+
+Feature Name: position 
+# of data: 260601 
+# of unique data: 4 
+unique datas: ['t' 's' 'j' 'o'] 
+
+Feature Name: plan_configuration 
+# of data: 260601 
+# of unique data: 10 
+unique datas: ['d' 'u' 's' 'q' 'm' 'c' 'a' 'n' 'f' 'o'] 
+
+Feature Name: has_superstructure_adobe_mud 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [1 0] 
+
+Feature Name: has_superstructure_mud_mortar_stone 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [1 0] 
+
+Feature Name: has_superstructure_stone_flag 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_superstructure_cement_mortar_stone 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_superstructure_mud_mortar_brick 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_superstructure_cement_mortar_brick 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_superstructure_timber 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_superstructure_bamboo 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_superstructure_rc_non_engineered 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_superstructure_rc_engineered 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_superstructure_other 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: legal_ownership_status 
+# of data: 260601 
+# of unique data: 4 
+unique datas: ['v' 'a' 'r' 'w'] 
+
+Feature Name: count_families 
+# of data: 260601 
+# of unique data: 10 
+unique datas: [1 0 2 3 4 5 6 7 9 8] 
+
+Feature Name: has_secondary_use 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_secondary_use_agriculture 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_secondary_use_hotel 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_secondary_use_rental 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_secondary_use_institution 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_secondary_use_school 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_secondary_use_industry 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_secondary_use_health_post 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_secondary_use_gov_office 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_secondary_use_use_police 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: has_secondary_use_other 
+# of data: 260601 
+# of unique data: 2 
+unique datas: [0 1] 
+
+Feature Name: damage_grade 
+# of data: 260601 
+# of unique data: 3 
+unique datas: [3 2 1] 
+
